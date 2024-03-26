@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-02-21 at 15 50 12_308d693f](https://github.com/kaviya2839/EXPERIMENT--01-ALP-FOR-8086/assets/120553351/7f3bcb0c-53cb-4533-afab-f58de634173f)# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT--01-ALP-FOR-8086
 ## Name : KAVIYA SHREE S
 ## Roll no : 212222110018
 ## Date of experiment :
@@ -102,6 +102,7 @@ HLT
 ![Division] ![WhatsApp Image 2024-02-21 at 15 43 10_44cc9e6a](https://github.com/kaviya2839/EXPERIMENT--01-ALP-FOR-8086/assets/120553351/9bda73c5-c1e7-4e80-a38b-36d63df70090)
 
 ## Program for logical  operations
+
 ## AND operation
 
 ```
