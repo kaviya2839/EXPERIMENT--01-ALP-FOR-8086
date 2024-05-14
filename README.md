@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : KAVIYASHREE S
-### Roll no : 212222110018
-### Date of experiment :
+
+### DATE:
+### NAME: KAVIYASHREE S
+### REG.NO: 212222110018
+
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
